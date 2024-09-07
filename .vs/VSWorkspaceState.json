@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blockchain-security-audit",
+    "\\blockchain-security-audit\\.github",
+    "\\blockchain-security-audit\\build",
+    "\\blockchain-security-audit\\build\\contracts",
+    "\\blockchain-security-audit\\contracts",
+    "\\blockchain-security-audit\\migrations",
+    "\\blockchain-security-audit\\myenv",
+    "\\blockchain-security-audit\\mythril-env"
+  ],
+  "SelectedNode": "\\blockchain-security-audit\\test",
+  "PreviewInSolutionExplorer": false
+}
